@@ -36,7 +36,7 @@ This project aims to analyze the funding trends of Indian start-ups from 2018 to
 
 Hypothesis:
 • Null Hypothesis (H0):
-The total funding amount received by Indian start-ups has not significantly increased from 2018 to 2021.
+The total funding amount received by Indian start-ups has not significantly increased from 2018 to 2021.  
 • Alternative Hypothesis (H1):
 The total funding amount received by Indian start-ups has significantly increased from 2018 to 2021.
 
