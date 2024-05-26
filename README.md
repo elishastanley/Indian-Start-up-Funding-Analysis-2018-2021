@@ -34,10 +34,10 @@ Title: Analysis of Start-Up Funding Trends in India (2018-2021)
 Project Description:
 This project aims to analyze the funding trends of Indian start-ups from 2018 to 2021. By examining the data on start-up funding across these years, the project will identify key patterns, investment behaviors, and emerging sectors within the Indian start-up ecosystem. The analysis will provide insights into the types of industries receiving the most investment, the most active investors, the average funding amounts, and the geographical distribution of funded start-ups. The findings will guide strategic decisions for entering the Indian start-up market.
 
-Hypothesis:
-• Null Hypothesis (H0):
-The total funding amount received by Indian start-ups has not significantly increased from 2018 to 2021.
-• Alternative Hypothesis (H1):
+**Hypothesis:**  
+• **Null Hypothesis (H0)**:
+The total funding amount received by Indian start-ups has not significantly increased from 2018 to 2021.  
+• **Alternative Hypothesis (H1)**:
 The total funding amount received by Indian start-ups has significantly increased from 2018 to 2021.
 
 Key Questions:
