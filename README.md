@@ -76,4 +76,3 @@ For any queries regarding this project, please contact:
 Elisha Stanley - elishastanley255@gmail.com
 
 Thank you for visiting this repository, and we hope you find the data insights useful!
->>>>>>> 279fbe0c6c0fdf8c68a7ff7e457a5c93081d16f1
