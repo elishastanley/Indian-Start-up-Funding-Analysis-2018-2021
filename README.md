@@ -47,3 +47,4 @@ Key Questions:
 3. Who are the top investors in Indian start-ups during these years, and what are their investment patterns?
 4. What are the average funding amounts for different funding stages (e.g., Seed, Series A, Series B, etc.) each year?
 5. How is the geographical distribution of funded start-ups across India, and are there any emerging start-up hubs outside of the traditional metros?
+_
