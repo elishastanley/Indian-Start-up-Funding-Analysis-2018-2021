@@ -53,6 +53,20 @@ cd indian-startup-funding
 jupyter notebook main.ipynb
 ```
 
+## Technologies Used
+This project utilizes several technologies and libraries in Python to manage data operations, perform statistical analysis, and visualize trends:
+- **pyodbc**: Used for connecting to databases using ODBC drivers, allowing data extraction from various database systems directly into Python for analysis.
+- **dotenv**: Facilitates the loading of environment variables from a `.env` file into the Python script. This is crucial for managing sensitive data such as database credentials without hardcoding them into the source code.
+- **Pandas**: A powerful data manipulation and analysis library for Python. It is used extensively for data cleaning, transformation, and preparation tasks.
+- **NumPy**: Essential for numerical operations on large, multi-dimensional arrays and matrices in Python. It provides support for a wide range of mathematical functions to operate on these arrays.
+- **re (Regular Expressions)**: Utilized for data cleaning and preprocessing to find, match, and manipulate text patterns in the data.
+- **Matplotlib**: A foundational plotting library in Python, used for creating static, interactive, and animated visualizations in Python.
+- **Seaborn**: Built on top of Matplotlib, it provides a high-level interface for drawing attractive and informative statistical graphics. This library simplifies many complex visualization tasks.
+
+### Data Visualization Tools
+For data visualization, this project employs Matplotlib and Seaborn to create a variety of charts and graphs that illustrate the trends and insights derived from the analysis. These visualizations include line plots, bar charts, histograms, among others.
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
