@@ -43,6 +43,8 @@ This project aims to analyze the funding trends of Indian start-ups from 2018 to
 ### Data Visualization:
 - Use Matplotlib and Seaborn to visualize data through various charts and graphs to illustrate the trends and insights derived from the analysis.
 
+#### [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNjg2MTI2MDMtM2JjMi00ZDliLWEyY2EtYTU2YTNjNGM4ZDZjIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 )
+
 ## Usage
 To run this analysis, follow these steps:
 
