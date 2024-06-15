@@ -27,6 +27,7 @@ This project aims to analyze the funding trends of Indian start-ups from 2018 to
 2. Which industries have received the most funding in each year, and how has this distribution changed over time?
 3. What are the average funding amounts for different funding stages (e.g., Seed, Series A, Series B, etc.) each year?
 4. How does funding for start-ups vary within the various geographical locations?
+5. What is the relationship between the number of investors and the amount of funding received by startups?
 
 ## Steps in the Analysis
 ### Data Loading:
