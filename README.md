@@ -46,6 +46,8 @@ This project aims to analyze the funding trends of Indian start-ups from 2018 to
 
 #### [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNjg2MTI2MDMtM2JjMi00ZDliLWEyY2EtYTU2YTNjNGM4ZDZjIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 )
 
+![Screenshot 2024-06-10 120926](https://github.com/elishastanley/Indian-Start-up-Funding-Analysis-2018-2021/assets/78024760/77251849-14a9-438b-9721-10a419c0656d)
+
 ## Usage
 To run this analysis, follow these steps:
 
